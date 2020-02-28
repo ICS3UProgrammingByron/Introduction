@@ -1,4 +1,13 @@
-﻿using System;
+﻿/*
+ * Created by: Byron Edmonds-Decosse
+ * Created on: 13-02-2020
+ * Created for: ICS3U Programming
+ * Daily Assignment – Day #7 - Perimeter,Area and Volume Calculation
+ * This program will answer the question on the button when the user will click on it 
+ * and when the user clicks on math there will be a button to exit the program
+*/
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;

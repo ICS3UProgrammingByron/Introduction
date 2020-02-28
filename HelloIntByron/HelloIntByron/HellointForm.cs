@@ -51,7 +51,14 @@ namespace HelloIntByron
 
         private void Radعربى_CheckedChanged(object sender, EventArgs e)
         {
-            //change the greeting to arabic
+            //change the greeting to swedish
+            this.LblGreeting.Text = "Hej världen";
+        }
+
+        private void ExitToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            //close the program
+            this.Close();
         }
     }
     
@@ -59,9 +66,9 @@ namespace HelloIntByron
             
 
         }
-    { 
+     
   
 
   
 
-}
+
